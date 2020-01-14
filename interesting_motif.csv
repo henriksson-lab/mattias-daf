@@ -1,0 +1,25 @@
+tf	desc
+E2F2_E2F5	Elongation factors (suggested by JH)
+E2F7_E2F1	Elongation factors (suggested by JH)
+POU5F1_POU2F3	OCT-4, repressor of differentiation (reprogramming in development)
+POU2F2_POU3F1	OCT-2 (?)
+IRF2_STAT2_IRF8_IRF1	Interferon regulatory factors
+XBP1	jh!
+TBP	jh!
+IRF9	jh
+YBX1_FOS_NFYC_NFYA_NFYB_CEBPZ	jh!
+ZBTB33_CHD2	jh
+E2F4	jh_boring
+IRF3	jh
+NKX2.8	jh
+SP100	jh
+YY1_YY2	jh
+GMEB2	jh!
+TAF1	jh
+STAT1_STAT3_BCL6	jh
+STAT5B	jh
+IRF6_IRF4_IRF5	jh
+PRDM1	jh-blimp1
+PAX5	jh-driver
+MXI1_MYC_MYCN	jh
+POU6F1	jh

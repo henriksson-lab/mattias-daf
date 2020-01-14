@@ -1,0 +1,26 @@
+gene	description	alternative_name
+CD55	Decay accelerating factor (Our favorite surface protein)	
+PRDM1	Hallmark of PC differentiation (repression BACH2, Pax2 etc)	(Blimp1)
+XBP1	Unfolded protein response (PC differentiation) 	
+MYC	Bmem recycling in GC	
+CCR6	Negative regulator of GC entry (and for exit?)	
+AICDA	DZ SHM isotype switch 	
+BACH2	DZ 	
+FOXO1	DZ TF	
+CXCR4	DZ migration	
+CD83	LZ	
+IRF4	PC differentiation	
+APOBEC3B	DNA dCdU editing deaminase – in response to dsDNA breaks (SHM) 	
+BATF	TF involved in GC structure establishment and CSR	
+ABCA1	cholesterol efflux regulatory protein (CERP) (Apoptotic cells trigger a membrane-initiated pathway to increase ABCA1) 	
+RGCC	cell cycle regulator induced by p53 in response to DNA damage	
+PSRC1	may participate in p53-mediated growth suppression	
+BCL6	DZ? Master transcription factor	
+BCL2	Antiapoptotic - Promotes cell survival 	
+ICAM1	Long lasting interation between B cell and Tfh	
+IGHx, IGKy, IGLz	BCR heavy and light chains (no differentiation, just label them)	may need custom coding
+ZBP1	Cytoplasmic (Foreign) DNA sensor	
+SSPN	Ocogene expr in GC 	
+UNC93B	TLR chaperone? (TLR7)	
+XBP-1	Unfolded protein response	
+ATF6	Unfolded protein response 	

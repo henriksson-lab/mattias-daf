@@ -1,0 +1,12 @@
+id,totaldesc,Patient,DAF_fraction,Celltype,File
+190625MF01,#1 Daf+ GC B cells,p1,Daf+,GC_B,JM01_MF01_(Clariom_D_Human).CEL
+190625MF02,#1 Daf- GC B cells,p1,Daf-,GC_B,JM02_MF02_(Clariom_D_Human).CEL
+190625MF03,#1 Daf+ Bmem,p1,Daf+,Bmem,JM03_MF03_(Clariom_D_Human).CEL
+190625MF04,#1 Daf- B mem,p1,Daf-,Bmem,JM04_MF04_(Clariom_D_Human).CEL
+190625MF05,#2 Daf+ GC B cells,p2,Daf+,GC_B,JM05_MF05_(Clariom_D_Human).CEL
+190625MF07,#2 Daf+ Bmem,p2,Daf+,Bmem,JM07_MF07_(Clariom_D_Human).CEL
+190625MF08,#2 Daf- B mem,p2,Daf-,Bmem,JM08_MF08_(Clariom_D_Human).CEL
+190625MF09,#3 Daf+ GC B cells,p3,Daf+,GC_B,JM09_MF09_(Clariom_D_Human).CEL
+190625MF10,#3 Daf- GC B cells,p3,Daf-,GC_B,JM10_MF10_(Clariom_D_Human).CEL
+190625MF11,#3 Daf+ Bmem,p3,Daf+,Bmem,JM11_MF11_(Clariom_D_Human)_2.CEL
+190625MF12,#3 Daf- B mem,p3,Daf-,Bmem,JM12_MF12_(Clariom_D_Human).CEL
